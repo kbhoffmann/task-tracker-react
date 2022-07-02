@@ -1,3 +1,5 @@
+# Trying out React by a tutorial from Traversy Media, the React Crash Course!  Still in progress, I'm almost done with it.  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
