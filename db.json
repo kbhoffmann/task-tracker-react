@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctor Appointment",
+      "day": "February 7th at 01:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Lunch with Kelsey",
+      "day": "February 8th at 11:30am",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Go to Pet Store",
+      "day": "February 9th at 10:00am",
+      "reminder": false
+    },
+    {
+      "id": 4,
+      "text": "Get Massage",
+      "day": "February 11th at 04:30pm",
+      "reminder": true
+    }
+  ]
+}
